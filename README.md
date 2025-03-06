@@ -12,5 +12,5 @@
 
 ### Контакты
 
-<a href='https://t.me/alexey_nikolaichik'>![Telegram](https://img.shields.io/badge/Телеграм-000?logo=telegram)</a>
-<a href='mailto:rogroty@gmail.com'>![Email](https://img.shields.io/badge/Почта-000?logo=gmail)</a>
+<a href='https://t.me/alexey_nikolaichik' target='_blank'>![Telegram](https://img.shields.io/badge/Телеграм-000?logo=telegram)</a>
+<a href='mailto:rogroty@gmail.com' target='_blank'>![Email](https://img.shields.io/badge/Почта-000?logo=gmail)</a>
