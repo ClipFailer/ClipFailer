@@ -1,16 +1,16 @@
-## Hi there 👋
+<h1 style='color:#092'>Здравствуйте, меня зовут Алексей!</h1>
 
-<!--
-**ClipFailer/ClipFailer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Я начинающий <span style='color:yellow'><strong>Frontend</strong>-разработчик</span>
 
-Here are some ideas to get you started:
+### Что я использую:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![JS](https://img.shields.io/badge/JS-000?logo=javascript)
+![TS](https://img.shields.io/badge/TS-000?logo=typescript)
+![React](https://img.shields.io/badge/React-000?logo=react)
+![Redux](https://img.shields.io/badge/Redux-000?logo=redux)
+![Express](https://img.shields.io/badge/Express-000?logo=express)
+
+### Контакты
+
+<a href='https://t.me/alexey_nikolaichik'>![Telegram](https://img.shields.io/badge/Телеграм-000?logo=telegram)</a>
+<a href='mailto:rogroty@gmail.com'>![Email](https://img.shields.io/badge/Почта-000?logo=gmail)</a>
