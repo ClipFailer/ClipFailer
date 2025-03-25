@@ -14,3 +14,4 @@
 
 <a href='https://t.me/alexey_nikolaichik' target='_blank'>![Telegram](https://img.shields.io/badge/Телеграм-000?logo=telegram)</a>
 <a href='mailto:rogroty@gmail.com' target='_blank'>![Email](https://img.shields.io/badge/rogroty@gmail.com-000?logo=gmail)</a>
+<a href='https://samara.hh.ru/resume/694e7e33ff0e1ec4f30039ed1f597a58706d53'>![Email](https://img.shields.io/badge/HH.ru-000?logo=headhunter)</a>
