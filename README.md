@@ -1,8 +1,8 @@
 <h1 style='color:#092'>Здравствуйте, меня зовут Алексей!</h1>
 
-### Я начинающий <span style='color:yellow'><strong>Frontend</strong>-разработчик</span>
+<h2>Я начинающий <span style='color:yellow'><strong>Frontend</strong>-разработчик</span></h2>
 
-### Что я использую:
+<h2>Что я использую:</h2> 
 
 ![JS](https://img.shields.io/badge/JS-000?logo=javascript)
 ![TS](https://img.shields.io/badge/TS-000?logo=typescript)
