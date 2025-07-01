@@ -1,6 +1,6 @@
 <h1 style='color:#092'>Здравствуйте, меня зовут Алексей!</h1>
 
-<h2>Я начинающий <span style='color:yellow'><strong>Frontend</strong>-разработчик</span></h2>
+<h2>Я <span style='color:yellow'><strong>Frontend</strong>-разработчик</span></h2>
 
 <h2>Что я использую:</h2> 
 
