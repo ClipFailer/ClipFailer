@@ -1,17 +1,23 @@
-<h1 style='color:#092'>Здравствуйте, меня зовут Алексей!</h1>
+## 👋 Здравствуйте, меня зовут Алексей
 
-<h2>Я <span style='color:yellow'><strong>Frontend</strong>-разработчик</span></h2>
+Я студент и изучаю **C++**, с фокусом на разработку приложений, графику и игровые технологии.
 
-<h2>Что я использую:</h2> 
+---
 
-![JS](https://img.shields.io/badge/JS-000?logo=javascript)
-![TS](https://img.shields.io/badge/TS-000?logo=typescript)
-![React](https://img.shields.io/badge/React-000?logo=react)
-![Redux](https://img.shields.io/badge/Redux-000?logo=redux)
-![Express](https://img.shields.io/badge/Express-000?logo=express)
+## 🛠 Tech Stack
 
-### Контакты
+### Язык
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white)
 
-<a href='https://t.me/alexey_nikolaichik' target='_blank'>![Telegram](https://img.shields.io/badge/Телеграм-000?logo=telegram)</a>
-<a href='mailto:rogroty@gmail.com' target='_blank'>![Email](https://img.shields.io/badge/rogroty@gmail.com-000?logo=gmail)</a>
-<a href='https://samara.hh.ru/resume/694e7e33ff0e1ec4f30039ed1f597a58706d53'>![Email](https://img.shields.io/badge/HH.ru-000?logo=headhunter)</a>
+### Frameworks & Graphics
+![Qt](https://img.shields.io/badge/Qt-41CD52?style=flat-square&logo=qt&logoColor=white)
+![OpenGL](https://img.shields.io/badge/OpenGL-5586A4?style=flat-square&logo=opengl&logoColor=white)
+![Unreal Engine](https://img.shields.io/badge/Unreal%20Engine-0E1128?style=flat-square&logo=unrealengine&logoColor=white)
+
+---
+
+## 📫 Контакты
+
+[![Telegram](https://img.shields.io/badge/Telegram-000?style=flat-square&logo=telegram)](https://t.me/alexey_nikolaichik)
+[![Email](https://img.shields.io/badge/Email-000?style=flat-square&logo=gmail)](mailto:rogroty@gmail.com)
+[![HH.ru](https://img.shields.io/badge/HH.ru-000?style=flat-square&logo=headhunter)](https://samara.hh.ru/resume/694e7e33ff0e1ec4f30039ed1f597a58706d53)
