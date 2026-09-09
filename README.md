@@ -21,3 +21,5 @@
 [![Telegram](https://img.shields.io/badge/Telegram-000?style=flat-square&logo=telegram)](https://t.me/alexey_nikolaichik)
 [![Email](https://img.shields.io/badge/Email-000?style=flat-square&logo=gmail)](mailto:rogroty@gmail.com)
 [![HH.ru](https://img.shields.io/badge/HH.ru-000?style=flat-square&logo=headhunter)](https://samara.hh.ru/resume/694e7e33ff0e1ec4f30039ed1f597a58706d53)
+[![Itch.io](https://img.shields.io/badge/itch.io-000?style=flat-square&logo=itch.io)](https://clipfailer.itch.io/)
+
