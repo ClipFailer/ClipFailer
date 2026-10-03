@@ -9,20 +9,15 @@
 
 ### Языки
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=unity&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 
 
 ### Game Engines
 ![Unreal Engine](https://img.shields.io/badge/Unreal%20Engine-0E1128?style=flat-square&logo=unrealengine&logoColor=white)
-![Unity](https://img.shields.io/badge/-Unity-000000?style=flat-square&logo=unity&logoColor=white)
-![Godot](https://img.shields.io/badge/Godot%20Engine-478CBF?logo=godotengine&logoColor=fff&style=flat)
-
 
 ### Frameworks & Graphics
 ![Qt](https://img.shields.io/badge/Qt-41CD52?style=flat-square&logo=qt&logoColor=white)
 ![OpenGL](https://img.shields.io/badge/OpenGL-5586A4?style=flat-square&logo=opengl&logoColor=white)
-
 
 ---
 
